@@ -32,7 +32,7 @@ function getUserData() {
       document.getElementById("ameme").setAttribute("src","PHOTO-2020-03-11-09-29-18.jpg");
     }
     else if (where == "cv"){
-      document.getElementById("acv").setAttribute("href","https://github.com/DanaTurkif/CSC440/blob/gh-pages/Dana%20Turki.html");
+      document.getElementById("acv").setAttribute("href","https://danaturkif.github.io/CSC440/Dana%20Turki.html");
       var acv = document.getElementById("acv");
       var text = document.createTextNode("this is my cv");
       acv.appendChild(text);
