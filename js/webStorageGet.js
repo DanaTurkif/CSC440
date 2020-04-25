@@ -29,7 +29,7 @@ function getUserData() {
     }
 
     if (where == "meme"){
-      document.getElementById("ameme").setAttribute("src","PHOTO-2020-03-11-09-29-18.jpg");
+      document.getElementById("ameme").setAttribute("src","https://github.com/DanaTurkif/CSC440/blob/gh-pages/PHOTO-2020-03-11-09-29-18.jpg");
     }
     else if (where == "cv"){
       document.getElementById("acv").setAttribute("href","https://danaturkif.github.io/CSC440/Dana%20Turki.html");
